@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### ✍️ Random Dev Quote
 <div align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://github-profile-trophy.vercel.app/?username=ravirush&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy" />
 </div>div>
 
 ### 🔝 Top Contributed Repo
