@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning **MERN Stack**
 - 👯 I’m looking to collaborate on **Backend Dev Projects**
 - 💬 Ask me about **Technology and Personal Development**
+- 🖥️ See my portfolio: **ravinduaththanayaka.vercel.app**
 - 📫 How to reach me: **ravindurashmika2k@gmail.com**
 - ⚡ Fun fact: **I'm a tech enthusiast who's also a skilled gamer!** 🎮
 
