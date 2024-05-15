@@ -7,14 +7,11 @@
 ### Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
 
-- 🔭 I’m currently working on **Frontend Dev Projects**
 - 🌱 I’m currently learning **MERN Stack**
-- 👯 I’m looking to collaborate on **Backend Dev Projects**
-- 💬 Ask me about **Technology and Personal Development**
-- 🖥️ See my portfolio: **ravinduaththanayaka.vercel.app**
-- 📫 How to reach me: **ravindurashmika2k@gmail.com**
-- ⚡ Fun fact: **I'm a tech enthusiast who's also a skilled gamer!** 🎮
 
+- 🖥️ See my portfolio: **ravinduaththanayaka.vercel.app**
+
+- 📫 How to reach me: **ravindurashmika2k@gmail.com**
 
 ## 👤 About Me:
 👩🏻‍🎓 Studying Software Engineering at the Informatics Institute of Technology, affiliated with the University of Westminster, UK. 🇱🇰🇬🇧 Passionate about software, mobile, and web development. Committed to contributing to high-quality products and staying current with industry trends. 💻📱🌐 Excited about making a positive impact through innovation and collaboration.
