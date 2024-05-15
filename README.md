@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🖥️ See my portfolio: [ravinduaththanayaka.vercel.app](ravinduaththanayaka.vercel.app)
+- 🖥️ See my portfolio: [ravinduaththanayaka.vercel.app](https://ravinduaththanayaka.vercel.app/)
 
 - 📫 How to reach me: **ravindurashmika2k@gmail.com**
 
